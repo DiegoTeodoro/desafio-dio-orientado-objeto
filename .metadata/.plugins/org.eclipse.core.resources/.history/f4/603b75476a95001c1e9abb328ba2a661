@@ -1,0 +1,6 @@
+package dio.model;
+
+public class ContaCorrente extends Conta {
+
+
+}

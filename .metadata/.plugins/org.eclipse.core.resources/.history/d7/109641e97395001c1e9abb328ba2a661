@@ -1,0 +1,14 @@
+package dio.model;
+
+public class ContaCorrente extends Conta {
+
+	@Override
+	public void imprimirExtrato() {
+		System.out.println("*** Extra Conta Corrente ***");
+		imprimirInfoComuns();
+	}
+
+	
+	
+
+}

@@ -1,0 +1,6 @@
+package dio.model;
+
+public class Poupanca extends Conta {
+
+
+}
